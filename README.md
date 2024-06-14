@@ -1,2 +1,2 @@
 # github-foundations-lab
-This is the first repo which we have created for testing purpose
+This is the first branch which we have created for testing purpose
